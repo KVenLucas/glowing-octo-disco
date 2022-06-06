@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cy Ganderton",
+      "job": "Quality Control Specialist",
+      "favoriteColor": "BlueZ"
+    },
+    {
+      "id": 2,
+      "job": "Desktop Support Technician",
+      "name": "Hart Hagerty",
+      "favoriteColor": "Purple"
+    },
+    {
+      "id": 3,
+      "job": "Tax Accountant",
+      "name": "Brice Swyre",
+      "favoriteColor": "Red"
+    },
+    {
+      "id": 4,
+      "name": "Shwnoder Rhon",
+      "job": "Tax Accountant Manager",
+      "favoriteColor": "Orangex"
+    },
+    {
+      "id": 5,
+      "name": "Newton RhonZ",
+      "job": "Depression Progammer",
+      "favoriteColor": "Pink"
+    }
+  ]
+}
